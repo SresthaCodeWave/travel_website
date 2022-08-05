@@ -9,7 +9,7 @@ function HeroSection() {
       <video src='/videos/video-1.mp4' autoPlay loop muted />
       <h1>ADVENTURE AWAITS </h1>
       <p>WHAT ARE YOU WAITING FOR?</p>
-      <p> TWOWAITS TASK2 MERN - Piyush Joshi </p>
+      <p> Join us now! </p>
       <div className='hero-btns'>
         <Button
           className='btns'
